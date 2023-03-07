@@ -15,6 +15,6 @@ Eliminando un Producto:
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114530204/223545715-df9f4c24-ca7a-4dfb-bd37-a12e5cde78a8.png">
 
-verificación:
+verificación del producto eliminado:
 
 <img width="942" alt="image" src="https://user-images.githubusercontent.com/114530204/223545791-5da6fca7-386f-4119-baeb-831e0258fff4.png">
